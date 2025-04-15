@@ -10,3 +10,9 @@ VersÃ£o 1.0.0 - LanÃ§amento inicial
 
 - Sistema bÃ¡sico de exploraÃ§Ã£o implementado.
 - Funcionalidade inicial de chat e inventÃ¡rio.
+
+Versão 1.1.2 - Correção de Bugs e Atualizações 
+
+- Atualização do multiplayer
+- Bugs Corrigidos 
+- Mapa Atualizado
