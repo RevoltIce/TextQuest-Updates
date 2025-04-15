@@ -1,7 +1,8 @@
-Versão 1.0.2 - Correção de Bugs e Atualizaçoes 
+VersÃ£o 1.0.2 - Correcao de Bugs e Atualizacoes 
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
 - Mapa Atualizado
 - Criacao do launcher do jogo
 - criacao do setup
+- Correcao de Erros
