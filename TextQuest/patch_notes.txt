@@ -1,6 +1,6 @@
-Versão 1.0.0 - Correção de Bugs e Atualizações 
+VersÃ£o 1.2.0 - CorreÃ§Ã£o de Bugs e AtualizaÃ§Ãµes 
 
-- Atualização do multiplayer
+- AtualizaÃ§Ã£o do multiplayer
 - Bugs Corrigidos 
 - Mapa Atualizado
 - Criacao do launcher do jogo
