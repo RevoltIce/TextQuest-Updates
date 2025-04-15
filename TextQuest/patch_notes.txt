@@ -1,4 +1,4 @@
-VersÃ£o 1.0.2 - CorreÃ§Ã£o de Bugs e AtualizaÃ§Ãµes 
+Versão 1.0.2 - Correção de Bugs e Atualizaçoes 
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
