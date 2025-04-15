@@ -1,4 +1,4 @@
-VersÃ£o 1.0.4 - Correcao de Bugs e Atualizacoes 
+VersÃ£o 1.0.5 - Correcao de Bugs e Atualizacoes 
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
