@@ -1,0 +1,12 @@
+Patch Notes - TextQuest: The Odyssey Begins
+
+VersÃ£o 1.1.0 - 15 de Abril de 2025
+
+- AtualizaÃ§Ã£o de sistema de mapas: Agora Ã© possÃ­vel explorar Ã¡reas mais amplas.
+- Melhorias na interface: A interface foi otimizada para uma experiÃªncia mais fluida.
+- CorreÃ§Ãµes de bugs: Diversos pequenos bugs corrigidos, incluindo problemas no chat entre jogadores.
+
+VersÃ£o 1.0.0 - LanÃ§amento inicial
+
+- Sistema bÃ¡sico de exploraÃ§Ã£o implementado.
+- Funcionalidade inicial de chat e inventÃ¡rio.
