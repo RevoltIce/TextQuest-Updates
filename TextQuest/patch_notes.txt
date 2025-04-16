@@ -1,4 +1,4 @@
-Versao 1.0.5 - Correcao de Bugs e Atualizacoes 
+VersÃ£o 1.0.5 - Correcao de Bugs e Atualizacoes 
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
@@ -7,7 +7,7 @@ Versao 1.0.5 - Correcao de Bugs e Atualizacoes
 - criacao do setup
 - Correcao de Erros
 
-Versao 1.0.6 - Estilos e visuais
+VersÃ£o 1.0.6 - Estilos e visuais
 
 - mudanca de GUI
 - limpeza da interface
