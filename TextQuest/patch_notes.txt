@@ -14,3 +14,10 @@ VersÃ£o 1.0.7 - Estilos e visuais
 - estilos mais retros
 - configuracao dos ID do jogador
 - mudanca de linguagem
+
+
+VersÃ£o 1.0.8 - linguagem
+
+- linguaguem parcialmente em Portugues de portugal
+- Insercao de algumas piadas
+- aprimuramento na UI
