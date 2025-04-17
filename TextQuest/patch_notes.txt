@@ -21,3 +21,11 @@ Versao 1.0.8 - linguagem
 - linguaguem parcialmente em Portugues de portugal
 - Insercao de algumas piadas
 - aprimuramento na UI
+
+Versao 1.0.9 - linguagem e UI
+
+- Aprimoramento da linguagem
+- Alteracao de comando no terminal
+- Criacao das novas funcoes do lobby
+- Criacao dos status "Ready"
+- Aprimoramento da UI e alinhamento das palavras
