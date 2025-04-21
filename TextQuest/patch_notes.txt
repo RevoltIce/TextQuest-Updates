@@ -2,7 +2,6 @@ Versao 1.0.5 - Correcao de Bugs e Atualizacoes
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
-- Mapa Atualizado
 - Criacao do launcher do jogo
 - criacao do setup
 - Correcao de Erros
