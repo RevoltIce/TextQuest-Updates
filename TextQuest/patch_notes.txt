@@ -2,7 +2,6 @@ Versao 1.0.5 - Correcao de Bugs e Atualizacoes
 
 - Atualizacao do multiplayer
 - Bugs Corrigidos 
-- Mapa Atualizado
 - Criacao do launcher do jogo
 - criacao do setup
 - Correcao de Erros
@@ -29,3 +28,17 @@ Versao 1.0.9 - linguagem e UI
 - Criacao das novas funcoes do lobby
 - Criacao dos status "Ready"
 - Aprimoramento da UI e alinhamento das palavras
+
+
+Versao 1.0.10 - linguagem, UI , Gameplay
+
+- criacao do mapa Tuturial
+- aprimuramento do multiplayer
+- remocao da palavra pass
+- adicao do nome do lobby
+- alteracao de comandos status
+- adicao de interface visual client e host
+- adicao de parametros UX
+
+
+Versao 1.0.11
